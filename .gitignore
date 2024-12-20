@@ -1,0 +1,4 @@
+Mordi_Create single region from selected items (get name and color from folder track) and mark it in region render matrix via master.lua
+Mordi_Create single region from selected items (get name and color from folder track) and mark it in region render matrix.lua
+triode_Subtract 1db from selected tracks sends via send window (or fader volume if no send window).lua
+triode_Add 1db to selected tracks sends via send window (or fader volume if no send window).lua
